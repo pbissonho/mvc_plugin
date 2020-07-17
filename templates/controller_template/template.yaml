@@ -1,6 +1,6 @@
 name: controller
 description: Create controller.
-to: lib/blocs/@name
+to: lib/controllers/@name
 args:
   - name
 
